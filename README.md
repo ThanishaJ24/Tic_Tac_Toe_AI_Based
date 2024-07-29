@@ -4,7 +4,9 @@ Welcome to the Unbeatable Tic-Tac-Toe game implemented in Python using the Pygam
 
 **#Features**
 **Unbeatable AI**: The game utilizes the Minimax Algorithm, making the AI unbeatable. The AI will always either win or tie with the player.
+
 **User-Friendly Interface:** Simple graphical interface that allows players to input their moves using mouse clicks.
+
 **Efficient Algorithm:** The Minimax Algorithm ensures that the AI makes the best possible move at every step.
 
 
