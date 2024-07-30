@@ -12,8 +12,7 @@ Welcome to the Unbeatable Tic-Tac-Toe game implemented in Python using the Pygam
 ## Game Output
 
 ### After some Move
-![Win]([images/Screenshot(217).png](https://github.com/ThanishaJ24/Tic_Tac_Toe_AI_Based/blob/main/images/Screenshot%20(217).png))
-
+![Win](https://github.com/ThanishaJ24/Tic_Tac_Toe_AI_Based/blob/main/images/Screenshot%20(217).png)
 ### Tie Game
 ![Tie](https://github.com/ThanishaJ24/Tic_Tac_Toe_AI_Based/blob/main/images/Screenshot%20(218).png)
 
